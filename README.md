@@ -12,5 +12,5 @@ If my open source projects are useful for your **product/company** you can also 
 
 You can find me on:
 
-* [GitHub as @tiangolo (you are here)](https://github.com/kameleon-ad)
+* [GitHub as @kameleon-ad (you are here)](https://github.com/kameleon-ad)
 * [LinkedIn](https://www.linkedin.com/in/alvin-delos-a6a007281/)
