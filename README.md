@@ -30,3 +30,11 @@ You can find me on:
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title = "Python"/></code>
+
+##
+<p align="center">
+<a href="https://github.com/kameleon-ad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kameleon-ad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kameleon-ad&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
