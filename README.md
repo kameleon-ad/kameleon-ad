@@ -4,7 +4,7 @@ I'm a software developer from Philippines.
 
 I currently live in Poland.
 
-I have been building APIs and tools for Machine Learning and data systems, in US and Europe, with different teams and organizations. 🌎
+I have been building APIs and tools for Machine Learning and Data Engineering, in US and Europe, with different teams and organizations. 🌎
 
 I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
